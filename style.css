@@ -1,0 +1,73 @@
+/*comment*/
+body {
+	background-color: black;
+	color: #e9ece5;
+	font-family: 'Manjari', sans-serif;
+	background-image: url();
+}
+h1 {
+	font-family: 'Gayathri', sans-serif;
+	color: #8cb6bc;
+}
+h2, h3 {
+	font-family: 'Gayathri', sans-serif;
+	color: #89a3b2;
+}
+
+#header {
+	text-align: center;
+	background-color: #23374d;
+	background-image: url(https://images.unsplash.com/photo-1562824429-7c023697286d);
+	background-size: cover;
+	padding: 10px;
+	border: none;
+	bottom-margin: 10px;
+	text-shadow: 1px white;
+}
+
+.container-fluid {
+	top-margin: 10px;
+	bottom-margin: 10px;
+}
+
+.section {
+ 	padding: 20px;
+ 	border: 1px solid #E6E6E6;
+}
+
+.icon {
+	border-radius: 30%;
+	margin: 7px;
+}
+
+#footer-social {
+	padding: 10px;
+	padding-left: 30px;
+	border: none;
+	top-margin: 10px;
+}
+#footer {
+	padding: 10px;
+	padding-left: 30px;
+	border: none;
+	margin: none;
+	text-align: center;
+}
+
+.social {
+	color: #584753;
+	font-size: 150%
+}
+
+.social:hover {
+	color: #E6E6E6;
+}
+
+a {
+	text-decoration: none;
+	color: #B2D3BE;
+}
+
+a:hover {
+	color: #e6eaa8;
+}
